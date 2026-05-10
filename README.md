@@ -63,6 +63,7 @@ com.hotelreservation/
 ├── exception/
 │   └── HotelException.java
 └── Main.java
+```
 
 ## 💻 Simulasi Input & Output
 ``` text
@@ -96,6 +97,7 @@ Masukkan Tanggal Check-out (yyyy-MM-dd): 2026-05-18
 
 ✅ Reservasi berhasil dibuat!
 ID Reservasi: RES-9A3F2K1L
+```
 
 ## ✨ Fitur Utama
 
@@ -106,12 +108,14 @@ Input data tamu secara manual (tidak hardcoded)
 - Notifikasi konfirmasi & pembatalan
 - Laporan reservasi aktif
 - Menu interaktif berbasis console
+```
 
 📝 Referensi Materi
-
+```text
 - Simaremare, Mario. 14-01-SOLID Principles: An Introduction. Program Studi Sarjana Sistem Informasi, Institut Teknologi Del.
 - Simaremare, Mario. 14-02a-Single Responsibility Principle. Program Studi Sarjana Sistem Informasi, Institut Teknologi Del.
 - Simaremare, Mario. 14-02b-Open-Closed Principle. Program Studi Sarjana Sistem Informasi, Institut Teknologi Del.
 - Simaremare, Mario. 14-02c-Liskov Substitution Principle. Program Studi Sarjana Sistem Informasi, Institut Teknologi Del.
 - Simaremare, Mario. 14-02d-Dependency Inversion Principle. Program Studi Sarjana Sistem Informasi, Institut Teknologi Del.
 - Simaremare, Mario. 14-02e-Interface Segregation Principle. Program Studi Sarjana Sistem Informasi, Institut Teknologi Del.
+```
